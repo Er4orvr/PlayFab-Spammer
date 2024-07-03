@@ -1,7 +1,7 @@
 import requests, random, string, os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-print("PlayFab Spammer made by, @.index | https://discord.gg/GSWSahAmVU")
+print("PlayFab Spammer made by Er4or | )
 
 TITLE = input("TitleId: ") # "83BF3" for tests
 COUNT = 5 # ~ 10K Users (with 16 cores) # (os.cpu_count() * 100 * COUNT will be result)
